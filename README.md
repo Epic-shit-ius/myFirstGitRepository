@@ -1,2 +1,2 @@
 # myFirstGitRepository
-I'm Jack raging coder
+I'm Jack's raging coder
